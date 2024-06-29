@@ -1,0 +1,15 @@
+
+.container{
+    margin: 20px 0;
+}
+
+.header{
+    margin: 0;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+.input{
+    width: 310px;
+    font-size: 18px;
+}

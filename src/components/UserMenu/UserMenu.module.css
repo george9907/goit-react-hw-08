@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-right: 20px;
+}
+
+.username {
+    color: black;
+    font-weight: 700;
+}
+
+button {
+    color: black;
+    font-weight: 600;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: auto;
+}
