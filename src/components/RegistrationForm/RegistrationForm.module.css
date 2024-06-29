@@ -27,3 +27,8 @@
     border-radius: 4px;
     margin: 0 auto;
 }
+
+.error{
+    font-size: 16px;
+        color: red;
+}
