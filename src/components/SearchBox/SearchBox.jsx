@@ -1,6 +1,8 @@
 import css from "./SearchBox.module.css";
 import { useDispatch, useSelector } from "react-redux";
-import { selectFilter, setStatusFilter } from "../../redux/filters/slice";
+import { setStatusFilter } from "../../redux/filters/slice";
+import { selectFilter } from "../../redux/filters/selectors";
+
 
 export default function SearchBox() {
   const dispatch = useDispatch();
